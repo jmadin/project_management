@@ -1,12 +1,13 @@
-# Analysis code
+# Project code
+
+# Load functions and packages
+source("R/functions.R")
+#library()
 
 # Prepare data
+source("R/get_data.R")
 
-source("R/functions.R")
-# source("R/get_data.R")
-
-# Load prepared data
-
+# Load prepared data from output folder
 dat <- read.csv("output/prepared_data.csv", as.is=TRUE)
 
 # Do analysis
