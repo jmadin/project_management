@@ -1,0 +1,3 @@
+# The `R` folder
+
+The `R` folder is where you keep R code that is loaded at the top of your main `analysis.R` code using `source()`. Typically, there is a `functions.R` file, and I often have `data_prep.R` and `taxonomy_resolve.R` files that process the raw data, fix issues, and save a new data file to the `output` folder. This prepared data file can then be loaded and used by the `analysis.R` code. If some of the processes in the `R` folder take a long time, you can comment them out to prevent them running again once you're happy with the intermediate data set. 
