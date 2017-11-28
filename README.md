@@ -8,6 +8,8 @@ This project is an example of how one might set up a project in R. The benefits 
 
 If you use `git`, this `README.md` file will be the first thing people see on your Github page. So, get in the habit of using one in your project's root directory/folder.
 
+Cick on the folders in the list above to see details about what they are used for. 
+
 ### A list of project tasks to-do:
 
 - This
