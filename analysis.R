@@ -1,4 +1,4 @@
-# Project code
+# Analysis code for project. 
 
 # Load functions and packages
 source("R/functions.R")
