@@ -5,3 +5,6 @@ make_data <- function(n) {
   y <- rnorm(n) + 5 * x
   return(data.frame(x=x, y=y))
 }
+
+ 
+# jmadin

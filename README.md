@@ -8,3 +8,6 @@ Here is a list of things to do:
 - That
 - And tghis again
 
+# Initial figure
+
+![Figs/plot_association.png](Figs/plot_association.png)
