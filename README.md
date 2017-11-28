@@ -10,5 +10,5 @@ Here is a list of things to do:
 
 # Initial figure
 
-![Figs/plot_association.png](Figs/plot_association.png)
+![figs/plot_association.png](figs/plot_association.png)
 
